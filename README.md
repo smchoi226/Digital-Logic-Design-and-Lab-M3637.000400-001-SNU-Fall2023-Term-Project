@@ -1,0 +1,1 @@
+As part of a term project, We developed a comprehensive algorithm for an automated mechanical parking tower system, implemented in Verilog HDL. My design achieved first place among over 30 competing teams and was successfully validated through FPGA board implementation, showcasing both algorithmic innovation and hardware design proficiency.
